@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#nom{
+    background-color:red; 
+}
+#leftform{
+    display:block;
+    border-right: solid greenyellow;
+    float:left;
+    
+}
+#pass{
+    display:inline;
+    color: brown;
+    
+}
