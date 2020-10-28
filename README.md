@@ -1,2 +1,2 @@
 # Librarie en ligne
-Backend/frontenf project of the Online library project
+Base de données, backend, front end partie de  projet Libraie en ligne
