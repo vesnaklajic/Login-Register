@@ -1,6 +1,6 @@
 # Online-library
-Backend/frontenf project of the Online library project.
-   //Développer une interface utilisateur en Swing:
+Backend/frontenf project of the Online library project.//
+   Développer une interface utilisateur en Swing:
     • Page « index »
     • Page « login »
     • Développer des composants d’accès aux données :
