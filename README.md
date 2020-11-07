@@ -1,7 +1,3 @@
-# Online-library
-Backend/frontenf project of the Online library project.
-
-
    Développer une interface utilisateur en Swing:
    - Page « index »
    - Page « login »
