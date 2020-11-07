@@ -2,8 +2,7 @@
 Base de données, backend, front end partie de  projet Libraie en ligne.
 
 Les outils:
-
--Merise (Power AMC) 
+- Merise (Power AMC) 
 -Java
 -Java Swing
 -GlassFish
